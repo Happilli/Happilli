@@ -16,7 +16,7 @@ I'm a passionate developer with expertise in various programming languages and t
 
 </div>
 
-# Languages Used on GitHub
+# Github 
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <a href="https://github.com/happilli">
