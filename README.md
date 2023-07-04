@@ -3,7 +3,7 @@
 
 # Hello, I'm [Safal Lama](https://happilli.github.io) 👋
 
-I'm a passionate developer with expertise in various programming languages and technologies. Here are some of the languages and tools I work with:
+I'm a lazy developer with expertise in various programming languages and technologies. Here are some of the languages and tools I work with:
 
 ## Language Usage
 
