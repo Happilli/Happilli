@@ -31,7 +31,7 @@ I'm a lazy developer with expertise in various programming languages and technol
 
 ## Social Media Links
 
-[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/kakarot.208)
+[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/myExistenceIsMythToMyOwnPast)
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/happili_)
 
 Feel free to explore my repositories and projects. If you find something interesting or have any feedback, I'd love to hear from you!
