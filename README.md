@@ -3,18 +3,9 @@
 
 # Hello, I'm [Safal Lama](https://happilli.github.io) 👋
 
-I'm a lazy developer with expertise in various programming languages and technologies. Here are some of the languages and tools I work with:
+Sinister specter of the icy abyss, lurking in the shadow of the frozen void.
 
-## Language Usage
 
-<div align="center">
-
-| Language/Tool | Icon | Language/Tool | Icon | Language/Tool | Icon | Language/Tool | Icon | Language/Tool | Icon |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Vanilla HTML | ![HTML](https://img.icons8.com/color/96/000000/html-5.png) | CSS | ![CSS](https://img.icons8.com/color/96/000000/css3.png) | Bootstrap | ![Bootstrap](https://img.icons8.com/color/96/000000/bootstrap.png) | Flask API | ![Flask](https://img.icons8.com/officel/96/000000/api-settings.png) | ReactJS | ![ReactJS](https://img.icons8.com/officel/96/000000/react.png) |
-| JavaScript | ![JavaScript](https://img.icons8.com/color/96/000000/javascript.png) | C# | ![C#](https://img.icons8.com/color/96/000000/c-sharp-logo.png) | C++ | ![C++](https://img.icons8.com/color/96/000000/c-plus-plus-logo.png) | C | ![C](https://img.icons8.com/color/96/000000/c-programming.png) | Python | ![Python](https://img.icons8.com/color/96/000000/python.png) |
-
-</div>
 
 # Github 
 
@@ -29,7 +20,7 @@ I'm a lazy developer with expertise in various programming languages and technol
 </div>
 
 
-## Social Media Links
+## connect
 
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/myExistenceIsMythToMyOwnPast)
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/happili_)
