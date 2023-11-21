@@ -1,4 +1,4 @@
-| ![Profile Views](https://komarev.com/ghpvc/?username=happilli&color=brightgreen) | [![Discord Server](https://img.shields.io/discord/your-discord-server-ID?label=Join%20our%20Discord%20Server&logo=discord&logoColor=white&labelColor=7289DA&color=2c2f33)](https://discord.gg/eUn3bWJTqN) |
+| ![Profile Views](https://komarev.com/ghpvc/?username=happilli&color=brightgreen) | [![Discord Server](https://img.shields.io/discord/your-discord-server-ID?label=Join%20mine%20Discord%20&logo=discord&logoColor=white&labelColor=7289DA&color=2c2f33)](https://discord.gg/9MR3jPTzjD) |
 | --- | --- |
 
 # Hello, I'm [Safal Lama](https://happilli.github.io) 👋
